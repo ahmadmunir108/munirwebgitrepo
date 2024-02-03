@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\munirwebgitrepo.props" />
+</Project>
