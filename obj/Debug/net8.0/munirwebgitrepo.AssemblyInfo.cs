@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("munirwebgitrepo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77588ec8e806feb93423c8d1e47e4f53063d45a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52dee19c7f9e1497f18381d4eaffc8b266a28506")]
 [assembly: System.Reflection.AssemblyProductAttribute("munirwebgitrepo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("munirwebgitrepo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
