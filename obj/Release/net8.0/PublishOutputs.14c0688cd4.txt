@@ -1,0 +1,7 @@
+D:\InterviewPrep\MicrosoftAzure\Azure-WebApp\munirwebgitrepo\bin\Release\net8.0\publish\munirwebgitrepo.exe
+D:\InterviewPrep\MicrosoftAzure\Azure-WebApp\munirwebgitrepo\bin\Release\net8.0\publish\appsettings.Development.json
+D:\InterviewPrep\MicrosoftAzure\Azure-WebApp\munirwebgitrepo\bin\Release\net8.0\publish\appsettings.json
+D:\InterviewPrep\MicrosoftAzure\Azure-WebApp\munirwebgitrepo\bin\Release\net8.0\publish\munirwebgitrepo.dll
+D:\InterviewPrep\MicrosoftAzure\Azure-WebApp\munirwebgitrepo\bin\Release\net8.0\publish\munirwebgitrepo.deps.json
+D:\InterviewPrep\MicrosoftAzure\Azure-WebApp\munirwebgitrepo\bin\Release\net8.0\publish\munirwebgitrepo.runtimeconfig.json
+D:\InterviewPrep\MicrosoftAzure\Azure-WebApp\munirwebgitrepo\bin\Release\net8.0\publish\munirwebgitrepo.pdb

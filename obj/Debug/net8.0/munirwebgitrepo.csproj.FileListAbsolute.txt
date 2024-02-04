@@ -28,3 +28,4 @@ D:\InterviewPrep\MicrosoftAzure\Azure-WebApp\munirwebgitrepo\obj\Debug\net8.0\re
 D:\InterviewPrep\MicrosoftAzure\Azure-WebApp\munirwebgitrepo\obj\Debug\net8.0\munirwebgitrepo.pdb
 D:\InterviewPrep\MicrosoftAzure\Azure-WebApp\munirwebgitrepo\obj\Debug\net8.0\munirwebgitrepo.genruntimeconfig.cache
 D:\InterviewPrep\MicrosoftAzure\Azure-WebApp\munirwebgitrepo\obj\Debug\net8.0\ref\munirwebgitrepo.dll
+D:\InterviewPrep\MicrosoftAzure\Azure-WebApp\munirwebgitrepo\obj\Debug\net8.0\munirwebgitrepo.sourcelink.json

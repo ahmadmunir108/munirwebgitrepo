@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/f59dd776-327b-48da-88fd-52f5e32c42d5/resourceGroups/MunirAzureResourceGroup/providers/Microsoft.Web/sites/MunirAzureWebAppService"
+}
